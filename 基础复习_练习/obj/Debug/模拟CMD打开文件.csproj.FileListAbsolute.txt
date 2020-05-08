@@ -1,0 +1,7 @@
+E:\C#\代码\基础复习_练习\基础复习_练习\bin\Debug\基础复习_练习.exe.config
+E:\C#\代码\基础复习_练习\基础复习_练习\bin\Debug\基础复习_练习.exe
+E:\C#\代码\基础复习_练习\基础复习_练习\bin\Debug\基础复习_练习.pdb
+E:\C#\代码\基础复习_练习\基础复习_练习\obj\Debug\模拟CMD打开文件.csprojAssemblyReference.cache
+E:\C#\代码\基础复习_练习\基础复习_练习\obj\Debug\模拟CMD打开文件.csproj.CoreCompileInputs.cache
+E:\C#\代码\基础复习_练习\基础复习_练习\obj\Debug\基础复习_练习.exe
+E:\C#\代码\基础复习_练习\基础复习_练习\obj\Debug\基础复习_练习.pdb

@@ -1,0 +1,7 @@
+E:\C#\代码\基础复习_练习\随机时间\bin\Debug\随机时间.exe.config
+E:\C#\代码\基础复习_练习\随机时间\bin\Debug\随机时间.exe
+E:\C#\代码\基础复习_练习\随机时间\bin\Debug\随机时间.pdb
+E:\C#\代码\基础复习_练习\随机时间\obj\Debug\随机时间.csprojAssemblyReference.cache
+E:\C#\代码\基础复习_练习\随机时间\obj\Debug\随机时间.csproj.CoreCompileInputs.cache
+E:\C#\代码\基础复习_练习\随机时间\obj\Debug\随机时间.exe
+E:\C#\代码\基础复习_练习\随机时间\obj\Debug\随机时间.pdb
