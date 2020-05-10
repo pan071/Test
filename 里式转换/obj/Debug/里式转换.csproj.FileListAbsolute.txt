@@ -1,6 +1,0 @@
-E:\C#\代码\基础复习_练习\里式转换\bin\Debug\里式转换.exe.config
-E:\C#\代码\基础复习_练习\里式转换\bin\Debug\里式转换.exe
-E:\C#\代码\基础复习_练习\里式转换\bin\Debug\里式转换.pdb
-E:\C#\代码\基础复习_练习\里式转换\obj\Debug\里式转换.csproj.CoreCompileInputs.cache
-E:\C#\代码\基础复习_练习\里式转换\obj\Debug\里式转换.exe
-E:\C#\代码\基础复习_练习\里式转换\obj\Debug\里式转换.pdb
